@@ -8,5 +8,6 @@ public class Main {
 		System.out.println("B修改的代码");
 		int i =1;
 		System.out .println(i+2);
+		测试联通
     }
 }
